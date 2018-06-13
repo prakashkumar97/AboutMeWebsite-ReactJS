@@ -1,0 +1,3 @@
+[0613/141317.327:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[0613/142801.308:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[0613/173256.593:ERROR:crashpad_client_win.cc(384)] OpenProcess: Access is denied. (0x5)
